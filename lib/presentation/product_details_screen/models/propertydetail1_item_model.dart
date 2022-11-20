@@ -1,0 +1,1 @@
+class Propertydetail1ItemModel { }
